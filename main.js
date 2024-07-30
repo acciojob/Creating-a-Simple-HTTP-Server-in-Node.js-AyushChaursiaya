@@ -15,4 +15,4 @@ app.listen(port, () => {
 
 // DO NOT EDIT BELOW THIS LINE
 
-module.exports = { server }
+module.exports = { app }
